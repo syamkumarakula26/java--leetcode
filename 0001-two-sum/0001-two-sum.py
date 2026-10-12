@@ -6,4 +6,3 @@ class Solution(object):
                 return [s[target-n],i]
             else :
                 s[n]=i
-        
